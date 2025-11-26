@@ -200,9 +200,9 @@ while (1)
 }
 void lcd_display(){
 	Lcd_cursor(&lcd,0,1);
-	Lcd_string(&lcd,"ANU VARSHINI M B\n");
+	Lcd_string(&lcd,"Kishore\n");
 	Lcd_cursor(&lcd,1,1);
-	Lcd_string(&lcd,"212223240010\n");
+	Lcd_string(&lcd,"212223240101\n");
 }
 void SystemClock_Config(void)
 {
