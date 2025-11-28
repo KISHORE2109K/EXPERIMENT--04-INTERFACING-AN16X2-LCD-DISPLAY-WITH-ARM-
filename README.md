@@ -263,7 +263,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 <img width="960" height="756" alt="image" src="https://github.com/user-attachments/assets/14c6318c-a5df-4530-87d2-2acb01432b77" />
 
 
-![WhatsApp Image 2025-05-26 at 14 47 02_e2d303f3](https://github.com/user-attachments/assets/638ecf48-9de8-41eb-ae81-412d672132b1)
+<img width="741" height="567" alt="image" src="https://github.com/user-attachments/assets/524f65a1-4c24-4582-b837-845084184e29" />
 
 
 
